@@ -1,6 +1,6 @@
-🛍️ Retail Sales Analysis using Python, SQL, and Power BI
+# Retail Sales Analysis using Python, SQL, and Power BI
 
-📌 Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end retail sales analysis using Python (Pandas), SQL, and Power BI. The objective is to transform raw retail sales data into meaningful business insights through data cleaning, analysis, and interactive visualizations.
 
@@ -8,7 +8,7 @@ The project follows a complete data analytics workflow, from data preprocessing 
 
 ---
 
-🎯 Problem Statement
+## Problem Statement
 
 Retail businesses generate large volumes of sales data every day. Analyzing this data helps identify sales trends, customer purchasing patterns, high-performing products, and business opportunities.
 
@@ -16,7 +16,7 @@ The goal of this project is to analyze retail sales data and answer key business
 
 ---
 
-🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -27,7 +27,7 @@ The goal of this project is to analyze retail sales data and answer key business
 
 ---
 
-🔄 Project Workflow
+## Project Workflow
 
 1. Data Collection
 
@@ -60,7 +60,7 @@ The goal of this project is to analyze retail sales data and answer key business
 
 ---
 
-📊 Dashboard Features
+## Dashboard Features
 
 The dashboard includes:
 
@@ -75,7 +75,7 @@ The dashboard includes:
 
 ---
 
-💡 Key Insights
+## Key Insights
 
 - Identified the best-performing product categories.
 - Analyzed monthly sales trends.
@@ -86,7 +86,7 @@ The dashboard includes:
 
 ---
 
-▶️ How to Run the Project
+## How to Run the Project
 
 1. Download or clone this repository.
 2. Open the Python notebook using Jupyter Notebook.
@@ -96,7 +96,7 @@ The dashboard includes:
 
 ---
 
-🚀 Future Enhancements
+## Future Enhancements
 
 - Add predictive sales forecasting.
 - Automate the data refresh process.
@@ -105,7 +105,7 @@ The dashboard includes:
 
 ---
 
-👩‍💻 Author
+## Author
 
 D Abhicharan
 Aspiring Data Analyst
@@ -122,4 +122,4 @@ Skills
 
 ---
 
-⭐ If you found this project helpful, feel free to explore the repository and share your feedback.
+ If you found this project helpful, feel free to explore the repository and share your feedback.
