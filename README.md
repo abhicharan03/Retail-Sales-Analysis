@@ -83,6 +83,9 @@ Created an interactive dashboard using KPIs, charts, and slicers for business in
 - Subscription Revenue
 - Revenue Distribution
 - Interactive Filters (Category, Location, Discount Applied, Subscription Status)
+---
+## Dashboard preview
+![Retail Sales Dashboard](Dashboard1.png)
 
 ---
 
