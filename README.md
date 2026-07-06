@@ -1,125 +1,122 @@
 # Retail Sales Analysis using Python, SQL, and Power BI
 
 ## Project Overview
+This project analyzes retail sales data to uncover trends, customer purchasing behavior, and product performance. The analysis was performed using **SQL**, **Python (Jupyter Notebook)**, and **Power BI** to clean, analyze, visualize, and present actionable business insights.
 
-This project demonstrates an end-to-end retail sales analysis using Python (Pandas), SQL, and Power BI. The objective is to transform raw retail sales data into meaningful business insights through data cleaning, analysis, and interactive visualizations.
-
-The project follows a complete data analytics workflow, from data preprocessing and SQL-based analysis to creating an interactive dashboard that helps stakeholders make data-driven decisions.
+The interactive dashboard enables users to monitor revenue, transactions, product performance, discounts, subscriptions, and regional sales, helping businesses make data-driven decisions.
 
 ---
 
-## Problem Statement
+## Objectives
 
-Retail businesses generate large volumes of sales data every day. Analyzing this data helps identify sales trends, customer purchasing patterns, high-performing products, and business opportunities.
-
-The goal of this project is to analyze retail sales data and answer key business questions that support better decision-making.
+- Analyze retail sales performance across different product categories.
+- Identify top-performing products and locations.
+- Evaluate the impact of discounts and promotional codes.
+- Compare subscription and non-subscription customer revenue.
+- Build an interactive Power BI dashboard for business reporting.
 
 ---
 
 ## Tools & Technologies
 
-- Python
-- Pandas
 - SQL
-- Power BI
-- Microsoft Excel
+- Python
 - Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- CSV Dataset
 
 ---
 
 ## Project Workflow
 
-1. Data Collection
+### 1. Data Collection
+- Imported retail sales dataset.
 
-- Imported the retail sales dataset.
-
-2. Data Cleaning
-
+### 2. Data Cleaning (Python)
 - Removed duplicate records.
 - Handled missing values.
 - Corrected data types.
-- Prepared the dataset for analysis.
+- Standardized column names.
 
-3. Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (Python)
+- Revenue analysis
+- Product analysis
+- Category analysis
+- Discount analysis
+- Subscription analysis
+- Location-wise sales analysis
 
-- Examined sales distribution.
-- Analyzed customer purchasing behavior.
-- Identified product performance.
-- Explored sales trends over time.
+### 4. SQL Analysis
+Performed SQL queries to:
+- Calculate total revenue
+- Find average revenue
+- Identify top-selling products
+- Analyze category-wise sales
+- Compare subscription revenue
+- Evaluate discount effectiveness
 
-4. SQL Analysis
-
-- Wrote SQL queries to answer business questions.
-- Used aggregate functions, filtering, grouping, joins, and window functions where applicable.
-
-5. Power BI Dashboard
-
-- Built an interactive dashboard.
-- Added KPIs and visualizations.
-- Enabled filtering for better business analysis.
+### 5. Power BI Dashboard
+Created an interactive dashboard using KPIs, charts, and slicers for business insights.
 
 ---
 
-## Dashboard Features
+## Dashboard KPIs
 
-The dashboard includes:
+- Total Revenue
+- Average Revenue
+- Maximum Transaction Amount
+- Total Transactions
 
-- Total Sales
-- Total Profit
-- Total Orders
-- Sales by Category
-- Sales by Region
-- Monthly Sales Trend
-- Top Performing Products
-- Interactive Filters
+---
+
+## Dashboard Visualizations
+
+- Revenue by Category
+- Revenue by Location
+- Product-wise Revenue
+- Promo Code Effectiveness
+- Revenue by Product Size
+- Discount Impact
+- Subscription Revenue
+- Revenue Distribution
+- Interactive Filters (Category, Location, Discount Applied, Subscription Status)
+---
+## Dashboard preview 
+![Retail Sales Dashboard](Screenshot 2026-07-02 121354.png)
 
 ---
 
 ## Key Insights
 
-- Identified the best-performing product categories.
-- Analyzed monthly sales trends.
-- Compared regional sales performance.
-- Evaluated customer purchasing patterns.
-- Highlighted products contributing the highest revenue.
-- Generated insights to support business decision-making.
+- Total Revenue generated is **195K**.
+- Average Revenue per transaction is **60.18**.
+- Total Transactions recorded are **3,246**.
+- Clothing category generated the highest revenue.
+- Sunglasses contributed the highest product revenue.
+- Medium (M) size products accounted for the largest share of sales.
+- Customers without subscriptions generated more revenue than subscribed customers.
+- Promotional codes had minimal impact on average revenue.
+- Revenue distribution between High and Low categories is nearly balanced.
+- Wisconsin contributed the highest regional revenue among the selected loc
 
 ---
 
-## How to Run the Project
+## Business Value
 
-1. Download or clone this repository.
-2. Open the Python notebook using Jupyter Notebook.
-3. Run the SQL queries in your SQL environment.
-4. Open the Power BI (.pbix) file using Microsoft Power BI Desktop.
-5. Explore the interactive dashboard and business insights.
-
----
-
-## Future Enhancements
-
-- Add predictive sales forecasting.
-- Automate the data refresh process.
-- Integrate additional business KPIs.
-- Deploy the dashboard online.
+This project helps businesses:
+- Monitor sales performance.
+- Identify top-performing products.
+- Understand customer purchasing behavior.
+- Evaluate discount and promotional strategies.
+- Support data-driven business decisions through interactive dashboards.
 
 ---
 
 ## Author
 
-D Abhicharan
-Aspiring Data Analyst
+**D Abhicharan**
 
-Skills
-
-- Python (Pandas)
-- SQL
-- Power BI
-- Microsoft Excel
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-
----
-
- If you found this project helpful, feel free to explore the repository and share your feedback.
+Aspiring Data Analyst skilled in **SQL, Python, Power BI, Excel, and Data Visualization**.
