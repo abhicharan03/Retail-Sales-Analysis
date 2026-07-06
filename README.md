@@ -85,7 +85,7 @@ Created an interactive dashboard using KPIs, charts, and slicers for business in
 - Interactive Filters (Category, Location, Discount Applied, Subscription Status)
 ---
 ## Dashboard preview 
-![Retail Sales Dashboard](Screenshot 2026-07-02 121354.png)
+![Retail Sales Dashboard](Dashboard/dashboard.png)
 
 ---
 
