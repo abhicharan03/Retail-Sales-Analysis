@@ -26,7 +26,7 @@ The interactive dashboard enables users to monitor revenue, transactions, produc
 - NumPy
 - Matplotlib
 - Power BI
-- CSV Dataset
+- xlsx Dataset
 
 ---
 
@@ -85,7 +85,7 @@ Created an interactive dashboard using KPIs, charts, and slicers for business in
 - Interactive Filters (Category, Location, Discount Applied, Subscription Status)
 ---
 ## Dashboard preview 
-![Retail Sales Dashboard](Dashboard/dashboard.png)
+![Retail Sales Dashboard](Screenshot_2026-07-02_121354.png)
 
 ---
 
